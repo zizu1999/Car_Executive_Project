@@ -1,4 +1,4 @@
-### 2. 📂 Car_Executive
+### 📂 Car_Executive
 
 **Description**: This dashboard provides a quality audit overview of brand compliance across business units and activity areas. It is designed to support executives in identifying performance gaps in standard compliance tests.
 
@@ -16,5 +16,4 @@
 **File**: `Car_Executive/Car_Executive.twbx`  
 🔗 Tableau Public: [*Car Executive Project*](https://public.tableau.com/app/profile/gianluigi.boniglia/viz/CarExecutiveProject/Dashboard33)
 
-**Screenshot**:
 
