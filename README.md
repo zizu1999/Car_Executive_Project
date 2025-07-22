@@ -2,7 +2,7 @@
 
 **Description**: This dashboard provides a quality audit overview of brand compliance across business units and activity areas. It is designed to support executives in identifying performance gaps in standard compliance tests.
 
-![Car Executive Dashboard]([Car_Executive/Screenshot.png](https://github.com/zizu1999/Car_Executive_Project/blob/main/Screenshot%202025-07-22%20125228.png))
+![Car Executive Dashboard]((https://github.com/zizu1999/Car_Executive_Project/blob/main/Screenshot%202025-07-22%20125228.png))
 
 **Main features**:
 - Breakdown of passed and failed quality tests
