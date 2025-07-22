@@ -14,7 +14,7 @@
 - Navigation buttons and filters for drilldown
 
 **File**: `Car_Executive/Car_Executive.twbx`  
-🔗 Tableau Public: [*Not available*](https://public.tableau.com/app/profile/gianluigi.boniglia/viz/CarExecutiveProject/Dashboard33)
+🔗 Tableau Public: [*Car Executive Project*](https://public.tableau.com/app/profile/gianluigi.boniglia/viz/CarExecutiveProject/Dashboard33)
 
 **Screenshot**:
 
